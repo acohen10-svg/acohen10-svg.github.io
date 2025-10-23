@@ -13,9 +13,7 @@ title                    : "Aidan Cohen"
 title_separator          : "-"
 name                     : "Aidan Cohen"
 description              : &description "Aidan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://acohen10-svg.github.io
 repository               : "acohen10-svg/acohen10-svg.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,13 +22,13 @@ repository               : "acohen10-svg/acohen10-svg.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Aidan Cohen"
+  pronouns         : "He/Him/His"  
+  bio              : "A aspring enviromental scientist turned broadcast journalist"
+  location         : "Baltmore, MD"
+  employer         : "UMBC"
+  uri              : "acohen10-svg.github.io"
+  email            : "acohen10@umbc.edu"
 
   # Academic websites
   academia         : # URL
