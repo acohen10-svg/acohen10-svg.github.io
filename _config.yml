@@ -13,7 +13,7 @@ title                    : "Aidan Cohen"
 title_separator          : "-"
 name                     : "Aidan Cohen"
 description              : &description "Aidan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://acohen10-svg.github.io
+url                      : "https://acohen10-svg.github.io"
 repository               : "acohen10-svg/acohen10-svg.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
