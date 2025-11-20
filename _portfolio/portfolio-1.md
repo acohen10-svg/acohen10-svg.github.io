@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Correspondance Between Average Income and Age Map"
+excerpt: "This map measures the correspondance between Average Income and Average Age in all of the Maryland Tracts"
+collection: Map from QGIS created during a class
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img width="3507" height="2480" alt="Income and age correspondance" src="https://github.com/user-attachments/assets/568c7f40-acfb-4f6d-8db7-9bf757fe29fc" />
